@@ -1,2 +1,6 @@
-# SocialBook
-Socialbook is a multipage website consist of Home and Profile page using HTML, CSS and JavaScript.
+# Social-Book
+Social-Book is a Multiple Page website like Facebook consisting of a Home and Profile page using HTML, CSS, and JavaScript. <br/>
+<ul>
+  <li> It is also a Responsive Web Design. </li>
+  <li> It enables a dark-mode feature if required. </li>
+</ul>
